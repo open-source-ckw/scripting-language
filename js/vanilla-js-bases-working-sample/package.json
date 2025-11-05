@@ -1,0 +1,9 @@
+{
+    "name": "cryptodash-starter",
+    "scripts": {
+        "dev": "serve src"
+    },
+    "devDependencies": {
+        "serve": "^6.4.1"
+    }
+}
